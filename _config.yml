@@ -1,6 +1,6 @@
 name: vSolar
 favicon: null
-layout_spectrum: 0.22605
+layout_spectrum: 1
 typography_spectrum: 0.35017
 cta:
   domain: null
