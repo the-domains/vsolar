@@ -1,0 +1,28 @@
+name: vSolar
+favicon: null
+layout_spectrum: 0.7831769071053714
+typography_spectrum: 0.8405888015404344
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 1
+  lightness: 0.3403867641463876
+  saturation: 0.23301790351979434
+  rhythmicContrast: 0.3895791282411665
+purpose: []
