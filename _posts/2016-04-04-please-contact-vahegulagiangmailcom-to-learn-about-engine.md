@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "Please contact vahe.gulagian@gmail.com to learn about engineering services we offer for \_residential/commercial/ utility scale PV solar and HV electrical substation projects.\_"
-datePublished: '2016-04-04T22:52:08.700Z'
-dateModified: '2016-04-04T22:48:37.866Z'
+datePublished: '2016-04-04T22:53:24.895Z'
+dateModified: '2016-04-04T22:52:57.055Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-04-please-contact-vahegulagiangmailcom-to-learn-about-engine.md
