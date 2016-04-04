@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Please contact vahe.gulagian@gmail.com to learn about engineering services we offer for \_residential/commercial/ utility scale PV solar and HV electrical substation projects.\_"
-datePublished: '2016-04-04T22:53:24.895Z'
-dateModified: '2016-04-04T22:52:57.055Z'
+datePublished: '2016-04-04T22:58:25.847Z'
+dateModified: '2016-04-04T22:58:18.359Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-04-please-contact-vahegulagiangmailcom-to-learn-about-engine.md
@@ -22,4 +22,6 @@ url: please-contact-vahegulagiangmailcom-to-learn-about-engine/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/75f351be-f817-4b96-8af1-0a34bd18c435.jpg)
+
 Please contact vahe.gulagian@gmail.com to learn about engineering services we offer for  residential/commercial/ utility scale PV solar and HV electrical substation projects.
