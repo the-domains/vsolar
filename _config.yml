@@ -24,6 +24,6 @@ color:
     - '#ffa33c'
   brandStrength: 0
   lightness: 0.75
-  saturation: 0.5
-  rhythmicContrast: 0.3895791282411665
+  saturation: 0.25
+  rhythmicContrast: 1
 purpose: []
